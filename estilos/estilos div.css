@@ -1,0 +1,11 @@
+div{
+	position: relative;
+}
+
+div.fixed{
+	position: fixed;
+	bottom: 16px;
+	right: 16px;
+}
+
+
